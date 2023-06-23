@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void mostrarMenu() {
-        System.out.println("Figuras Geometricas:");
+        System.out.println("Figuras Geometrícas:");
         System.out.println("1.- Triangulo");
         System.out.println("2.- Cuadrado");
         System.out.println("3.- Circulo");
